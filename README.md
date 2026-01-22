@@ -4,7 +4,7 @@ A SQL project where I analyze a B2B sales CRM database to understand pipeline pe
 
 ## About the project
 
-I wanted to practice SQL on a realistic sales dataset. The data comes from a CRM with ~8,800 sales opportunities, and I focused on questions that a sales manager might actually ask: how's the pipeline doing, who are the top performers, which products sell best, where are deals getting stuck.
+ The data comes from a CRM with ~8,800 sales opportunities, and I focused on questions that a sales manager might actually ask: how's the pipeline doing, who are the top performers, which products sell best, where are deals getting stuck.
 
 ## Dataset
 
