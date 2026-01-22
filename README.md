@@ -1,4 +1,4 @@
-# CRM Sales Pipeline Analysis
+# Sales CRM Pipeline KPI Analysis Using SQL
 
 A SQL project where I analyze a B2B sales CRM database to understand pipeline performance, sales team results, and customer patterns.
 
