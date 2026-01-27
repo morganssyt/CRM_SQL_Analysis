@@ -59,6 +59,3 @@ I used MySQL 8.0 on Windows.
 
 More details in `report.md`.
 
-## What I learned
-
-This was a good exercise in writing queries that answer real business questions, not just technical SQL practice. I also learned that data is never as clean as you expect - had to handle nulls and missing accounts in several queries.
